@@ -1,0 +1,13 @@
+C:\Users\white\repos\InheritanceExercise\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.csprojAssemblyReference.cache
+C:\Users\white\repos\InheritanceExercise\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\white\repos\InheritanceExercise\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.AssemblyInfo.cs
+C:\Users\white\repos\InheritanceExercise\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\white\repos\InheritanceExercise\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.exe
+C:\Users\white\repos\InheritanceExercise\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.deps.json
+C:\Users\white\repos\InheritanceExercise\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.runtimeconfig.json
+C:\Users\white\repos\InheritanceExercise\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.runtimeconfig.dev.json
+C:\Users\white\repos\InheritanceExercise\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.dll
+C:\Users\white\repos\InheritanceExercise\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.pdb
+C:\Users\white\repos\InheritanceExercise\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.dll
+C:\Users\white\repos\InheritanceExercise\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.pdb
+C:\Users\white\repos\InheritanceExercise\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.genruntimeconfig.cache
